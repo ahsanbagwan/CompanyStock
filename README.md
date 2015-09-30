@@ -2,5 +2,5 @@
 
  Generates a chart for the company stocks over the period of time.
 
- # TODO
+ More to be added. Stay tuned.
 
