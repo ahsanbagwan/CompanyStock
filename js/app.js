@@ -1,4 +1,4 @@
-$(document).ready(function(){
+/*$(document).ready(function(){
 	$.ajax({
     	type : "GET",
      	dataType : "json",
@@ -8,7 +8,7 @@ $(document).ready(function(){
      	}
     });
 });
-
+*/
 // New code
 
 // Set the dimensions of the canvas / graph
