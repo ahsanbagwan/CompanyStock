@@ -7,7 +7,5 @@ $(document).ready(function(){
            console.log(data.dataset.data);
      	}
     });
-
-    
 });
 

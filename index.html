@@ -57,7 +57,7 @@
         	.attr("transform", 
               "translate(" + margin.left + "," + margin.top + ")");
 		// Get the data
-		d3.csv("data.csv", function(error, data) {
+		d3.csv("NSE-ZENSARTECH.csv", function(error, data) {
     		console.log("data " + data);
     		data.forEach(function(d) {
         	d.date = parseDate(d.date);
