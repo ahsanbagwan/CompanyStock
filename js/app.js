@@ -1,16 +1,3 @@
-/*$(document).ready(function(){
-	$.ajax({
-    	type : "GET",
-     	dataType : "json",
-     	url : "https://www.quandl.com/api/v3/datasets/NSE/ZENSARTECH.json?auth_token=KZCPhKDFd5JZwGdUJyUY",
-     	success: function(data){
-           console.log(data.dataset.data);
-     	}
-    });
-});
-*/
-// New code
-
 // Set the dimensions of the canvas / graph
 		var margin = {top: 30, right: 20, bottom: 30, left: 50},
     		width = 600 - margin.left - margin.right,
